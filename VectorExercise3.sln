@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "VectorExercise3", "VectorExercise3.vcxproj", "{DB37E72B-EA69-48B2-9DE4-78C9A997BB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB37E72B-EA69-48B2-9DE4-78C9A997BB4E}.Debug|x64.ActiveCfg = Debug|x64
+		{DB37E72B-EA69-48B2-9DE4-78C9A997BB4E}.Debug|x64.Build.0 = Debug|x64
+		{DB37E72B-EA69-48B2-9DE4-78C9A997BB4E}.Release|x64.ActiveCfg = Release|x64
+		{DB37E72B-EA69-48B2-9DE4-78C9A997BB4E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
